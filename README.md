@@ -55,7 +55,7 @@ O desafio teve como objetivo o desenvolvimento de uma aplicação completa capaz
 ## 📁 Estrutura do Projeto
 
 Cada uma das pastas contem os desafios divididos em partes seguindo as diretivas do desafio, com os códigos.
-Para entender melhor cada parte do cédigo, de maneira visual, aconselho entrar no link do miro, apresentado no inicio.
+Para entender melhor cada parte do código de maneira visual e explicativa, aconselho entrar no link do Miro, apresentado no inicio deste README.
 
 ---
 
