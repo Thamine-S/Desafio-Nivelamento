@@ -29,8 +29,9 @@ O desafio teve como objetivo o desenvolvimento de uma aplicação completa capaz
 1. **Extrair dados da web** utilizando técnicas de web scraping com Python.
 2. **Transformar e organizar os dados** extraídos para uso estruturado.
 3. **Persistir os dados em um banco de dados relacional (PostgreSQL)**, criando as tabelas e estruturas necessárias.
-4. **Desenvolver uma API REST com Flask**, capaz de acessar dados em um arquivo CSV.
-5. **Construir uma interface web em Vue.js** para exibir os dados consultados pela API de forma clara e interativa para o usuário.
+4. **Elaborar queries analíticas com SQL** para gerar informações relevantes e sumarizadas com base nos dados disponíveis.
+5. **Desenvolver uma API REST com Flask**, capaz de acessar dados em um arquivo CSV.
+6. **Construir uma interface web em Vue.js** para exibir os dados consultados pela API de forma clara e interativa para o usuário.
 
 ---
 
