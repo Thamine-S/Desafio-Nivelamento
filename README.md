@@ -54,11 +54,12 @@ O desafio teve como objetivo o desenvolvimento de uma aplicação completa capaz
 
 ## 📁 Estrutura do Projeto
 
-
+Cada uma das pastas contem os desafios divididos em partes seguindo as diretivas do desafio, com os códigos.
+Para entender melhor cada parte do cédigo, de maneira visual, aconselho entrar no link do miro, apresentado no inicio.
 
 ---
 
-## 🚀 Como Executar o Projeto
+<!---## 🚀 Como Executar o Projeto
 
 ### 1. Clonar o repositório
 ```bash
@@ -86,7 +87,7 @@ npm install
 npm run dev
 ```
 
----
+--->
 
 ## 🔎 Funcionalidades Implementadas
 
@@ -96,10 +97,3 @@ npm run dev
 - 🔄 Atualização e ingestão de dados no PostgreSQL
 - 🔐 Arquitetura separada por camadas (scraper, API, frontend)
 
----
-
-## 💬 Considerações Finais
-
-Esse desafio foi uma excelente oportunidade de aplicar conhecimentos práticos em todo o ciclo de desenvolvimento de uma aplicação fullstack orientada a dados. As etapas de scraping, limpeza, persistência, API e exibição foram fundamentais para consolidar a integração entre backend e frontend com foco em dados reais.
-
----
