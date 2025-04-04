@@ -1,5 +1,17 @@
-# 🚀 Desafio de Nivelamento – Intuitive Care
+![Header](https://github.com/user-attachments/assets/0e5667fd-0729-45f2-9cb2-c264dcbc0489)
 
+<a href="https://miro.com/app/board/uXjVIOQp9eM=/?share_link_id=792001140927">
+   <img src="https://github.com/user-attachments/assets/d260dd3d-941f-4662-83e6-09d29804a40e" width="300" >
+</a>
+
+
+
+<a href="">
+   <img src="https://github.com/user-attachments/assets/8038ac21-fdf6-4516-b28c-0191b1993a8e" width="300" >
+</a>
+
+
+---
 Este repositório contém a solução desenvolvida para o desafio técnico, com o objetivo de demonstrar habilidades em:
 
 - Web scraping com Python 🕷️  
