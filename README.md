@@ -88,7 +88,11 @@ npm run dev
 ```
 
 --->
+## Demonstração Desafio 4:
 
+https://github.com/user-attachments/assets/fd626017-9786-4526-b4fa-13eaf9e3afef
+
+---
 ## 🔎 Funcionalidades Implementadas
 
 - 🔍 Busca por registros via interface (consumindo o CSV ou banco)
