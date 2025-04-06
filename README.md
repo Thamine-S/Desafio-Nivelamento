@@ -61,41 +61,12 @@ Para entender melhor cada parte do código de maneira visual e explicativa, acon
 ### Códigos:
 Desafio 1: [Web Scraping](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_1_2/web_scraping.py) <br>
 Desafio 2: [Transformação de Dados](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_1_2/transformacao_de_dados.py) <br>
-Desafio 3: [Banco de Dados (Querys)](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_3/querys.sql) [transformação dos dados](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_3/transformacao.py) <br>
-Desafio 4: [API](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_4/back_end/app.py) [Interface](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_4/front_end/interface/src/App.vue) <br>
+Desafio 3: [Banco de Dados (Querys)](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_3/querys.sql) - [transformação dos dados](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_3/transformacao.py) <br>
+Desafio 4: [API](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_4/back_end/app.py) - [Interface](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_4/front_end/interface/src/App.vue) <br>
 
 
 ---
 
-<!---## 🚀 Como Executar o Projeto
-
-### 1. Clonar o repositório
-```bash
-git clone https://github.com/seu-usuario/desafio-nivelamento.git
-cd desafio-nivelamento
-```
-
-### 2. Instalar dependências do backend
-```bash
-cd backend
-python -m venv venv
-source venv/bin/activate  # ou venv\Scripts\activate no Windows
-pip install -r requirements.txt
-```
-
-### 3. Iniciar a API Flask
-```bash
-python app.py
-```
-
-### 3. Rodar o frontend
-```bash
-cd ../frontend
-npm install
-npm run dev
-```
-
---->
 ## Demonstração Desafio 4:
 
 https://github.com/user-attachments/assets/fd626017-9786-4526-b4fa-13eaf9e3afef
