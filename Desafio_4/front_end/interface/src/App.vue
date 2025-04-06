@@ -20,8 +20,8 @@ const buscar = async () => {
 <template>
   <div class="container">
     <h1>Buscar</h1>
-    <input v-model="termo" placeholder="Digite o nome da operadora" />
-    <button @click="buscar">Buscar</button>
+    <input v-model="termo" placeholder="Digite o nome da operadora"/>
+    <button @click="buscar"><ion-icon name="search-outline"></ion-icon></button>
 
     <ul v-if="operadoras.length">
   <li v-for="(op, index) in operadoras" :key="index">
@@ -58,6 +58,8 @@ body{
 }
 
 .container h1 {
+  margin: 100px;
+  font-size: 50px;
   font-family: "Orbitron", sans-serif;
   font-optical-sizing: auto;
   font-weight: 500;
@@ -66,10 +68,14 @@ body{
 
 
 input {
+  margin-bottom: 50px;
+  border: none;
   padding: 8px;
   margin-right: 5px;
 }
 button {
+  margin-bottom: 50px;
+  border: none;
   padding: 8px;
   cursor: pointer;
 }
@@ -88,4 +94,10 @@ li {
   font-size: medium;
   font-weight: 700;
 }
+
+ion-icon {
+  color: rgb(0, 0, 0);
+}
+
 </style>
+
