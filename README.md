@@ -71,12 +71,4 @@ Desafio 4: [API](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desa
 
 https://github.com/user-attachments/assets/fd626017-9786-4526-b4fa-13eaf9e3afef
 
----
-## 🔎 Funcionalidades Implementadas
-
-- 🔍 Busca por registros via interface (consumindo o CSV ou banco)
-- 📊 Visualização dos dados estruturados
-- 📥 Extração de informações via scraping automatizado
-- 🔄 Atualização e ingestão de dados no PostgreSQL
-- 🔐 Arquitetura separada por camadas (scraper, API, frontend)
 
