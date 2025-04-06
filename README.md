@@ -57,6 +57,14 @@ O desafio teve como objetivo o desenvolvimento de uma aplicação completa capaz
 Cada uma das pastas contem os desafios divididos em partes seguindo as diretivas do desafio, com os códigos.
 Para entender melhor cada parte do código de maneira visual e explicativa, aconselho entrar no link do Miro, apresentado no inicio deste README.
 
+
+### Códigos:
+Desafio 1: [Web Scraping](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_1_2/web_scraping.py)
+Desafio 2: [Transformação de Dados](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_1_2/transformacao_de_dados.py)
+Desafio 3: [Banco de Dados (Querys)](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_3/querys.sql) [transformação dos dados](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_3/transformacao.py)
+Desafio 4: [API](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_4/back_end/app.py) [Interface](https://github.com/Thamine-S/Desafio-Nivelamento/blob/main/Desafio_4/front_end/interface/src/App.vue)
+
+
 ---
 
 <!---## 🚀 Como Executar o Projeto
