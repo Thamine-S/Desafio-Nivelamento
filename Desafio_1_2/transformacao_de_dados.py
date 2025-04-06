@@ -7,9 +7,9 @@ import os
 import pandas as pd
 
 # Caminho para o arquivo ZIP
-zip_file_path = 'code/anexos.zip'
-extract_folder = 'C:\\Users\\Usuario\\Desktop\\Importante\\projetos\\Desafio\\code\\anexos'
-diretorio = 'C:\\Users\\Usuario\\Desktop\\Importante\\projetos\\Desafio\\code'
+zip_file_path = 'anexos.zip'
+extract_folder = 'C:\\Users\\Usuario\\Desktop\\Importante\\projetos\\Desafio_1_2\\anexos'
+diretorio = 'C:\\Users\\Usuario\\Desktop\\Importante\\projetos\\Desafio_1_2'
 arquivos_baixados = []
 
 # Descompactar o arquivo ZIP
@@ -52,7 +52,7 @@ else:
     
 time.sleep(10)
 
-csv = "code\\anexos\\tabela.csv"
+csv = "anexos\\tabela.csv"
 
 df = pd.read_csv(csv, encoding="utf-8", header=0)
 
@@ -78,7 +78,7 @@ print("Arquivo processado com sucesso! As repetições do cabeçalho foram remov
 arquivo_origem = "tabela_limpa.csv"
 
 # Novo diretório para onde o arquivo será movido
-novo_diretorio = "C:\\Users\\Usuario\\Desktop\\Importante\\projetos\\Desafio\\code\\anexos"
+novo_diretorio = "C:\\Users\\Usuario\\Desktop\\Importante\\projetos\\Desafio_1_2\\anexos"
 
 # Criar o caminho completo do arquivo no novo diretório
 arquivo_destino = f"{novo_diretorio}\\tabela_limpa.csv"
@@ -94,6 +94,7 @@ if arquivos_baixados:
     with zipfile.ZipFile('Teste_thamine.zip', 'w', zipfile.ZIP_DEFLATED) as zipf:
         for arquivo in arquivos_baixados:
             zipf.write(arquivo, os.path.basename(arquivo))  # Adicionar o arquivo ao ZIP
-    #shutil.rmtree(extract_folder)
+    shutil.rmtree(extract_folder)
 
     print("Arquivos compactados em 'Teste_thamine.zip' com sucesso!")
+
